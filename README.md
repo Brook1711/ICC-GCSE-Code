@@ -7,6 +7,9 @@ The main codes are organized in several jupyter notebooks.
 - `alg_OMP_WND.ipynb` 
 - `alg_OMP_AD.ipynb`
 
+Github preview may not display the math formula correctly. Please download the notebook and run it in your local environment.
+Or just check the html version in the `doc` folder.
+
 ### Notation
 please create a `data` folder at the root and run the channel generation code in `generate_channel.ipynb` to generate the channel data.
 
