@@ -20,3 +20,5 @@ please feel free to contact me at
 - N2308905J@e.ntu.edu.sg
 
 The github issues are also welcomed, but not checked frequently.
+
+BTW, welcome to my blog, but it's a mess right now, lol: https://xufeng.notion.site/HOME-Happy-New-Lunar-New-Year-edf7f4354f4f4a4a9a634e70d51d618e
