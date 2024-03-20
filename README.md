@@ -9,3 +9,11 @@ The main codes are organized in several jupyter notebooks.
 
 ### Notation
 please create a `data` folder at the root and run the channel generation code in `generate_channel.ipynb` to generate the channel data.
+
+### Get in touch
+If any questions,
+please feel free to contact me at 
+- brook1711@bupt.edu.cn
+- N2308905J@e.ntu.edu.sg
+
+The github issues are also welcomed, but not checked frequently.
